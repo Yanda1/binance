@@ -15,11 +15,12 @@
         "bignumber.js": "^9.0.0",
         "request": "^2.88.2",
         "underscore": "^1.8.3",
+        "isomorphic-ws": "^4.0.1",
         "ws": "^3.3.1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zoeyg/binance"
+        "url": "https://github.com/Yanda1/binance"
     },
     "keywords": [
         "api",
